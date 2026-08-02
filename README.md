@@ -1,0 +1,2 @@
+# Computational-docking-and-ADMET-analysis-of-phytochemicals-against-E.-coli-DNA-gyrase-B
+This repository presents an in silico computational drug discovery project evaluating four phytochemicals (Berberine, Quercetin, Curcumin, and Resveratrol) against Escherichia coli DNA gyrase B (PDB ID: 5L3J) using AutoDock Vina, Discovery Studio Visualizer, and pkCSM for molecular docking, interaction analysis, and ADMET prediction.
