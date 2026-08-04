@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+
+title: "Computational Docking and ADMET Analysis of Phytochemicals Against Escherichia coli DNA Gyrase B (PDB ID: 5L3J)"
+
+message: "If you use this repository in your research, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: "Ali"
+    given-names: "Rehan"
+    affiliation: "Department of Allied Health and Molecular Sciences, Lahore Garrison University, Lahore, Pakistan"
+
+repository-code: "https://github.com/rehanaly/Computational-docking-and-ADMET-analysis-of-phytochemicals-against-E.-coli-DNA-gyrase-B"
+
+abstract: >
+  This repository presents a computational drug discovery workflow
+  investigating the interaction of four phytochemicals (Berberine,
+  Quercetin, Curcumin, and Resveratrol) with Escherichia coli DNA
+  gyrase B (PDB ID: 5L3J). Molecular docking was performed using
+  AutoDock Vina v1.2.7, followed by protein–ligand interaction
+  analysis and ADMET prediction using pkCSM to identify potential
+  antibacterial lead compounds.
+
+keywords:
+  - Molecular Docking
+  - Computational Drug Discovery
+  - Bioinformatics
+  - ADMET
+  - pkCSM
+  - AutoDock Vina
+  - Escherichia coli
+  - DNA Gyrase B
+  - Phytochemicals
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-08-04"
+
+url: "https://github.com/rehanaly/Computational-docking-and-ADMET-analysis-of-phytochemicals-against-E.-coli-DNA-gyrase-B"
+
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Ali"
+      given-names: "Rehan"
+  title: "Computational Docking and ADMET Analysis of Phytochemicals Against Escherichia coli DNA Gyrase B (PDB ID: 5L3J)"
+  institution: "Department of Allied Health and Molecular Sciences, Lahore Garrison University"
+  year: 2026
